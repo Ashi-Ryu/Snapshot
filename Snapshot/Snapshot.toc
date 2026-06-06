@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Snapshot
+## Notes: Automatically captures screenshots for memorable moments — level ups, achievements, deaths, boss kills, and more.
+## Author: Ashi
+## Version: 1.0.0
+## SavedVariables: SnapshotDB
+
+Snapshot.lua
