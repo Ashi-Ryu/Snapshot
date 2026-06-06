@@ -98,6 +98,3 @@ World of Warcraft/Screenshots/
 
 ---
 
-## License
-
-Do whatever you want with it.
